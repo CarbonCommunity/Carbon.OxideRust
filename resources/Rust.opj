@@ -9164,7 +9164,7 @@
             "InjectionIndex": 23,
             "ReturnBehavior": 1,
             "ArgumentBehavior": 4,
-            "ArgumentString": "this,  l0",
+            "ArgumentString": "this, l0",
             "HookTypeName": "Simple",
             "Name": "OnBallistaGunReload",
             "HookName": "OnBallistaGunReload",
@@ -9174,7 +9174,7 @@
             "Signature": {
               "Exposure": 0,
               "Name": "SERVER_ReloadStart",
-              "ReturnType": "System.Booleen",
+              "ReturnType": "System.Boolean",
               "Parameters": [
                 "BaseEntity/RPCMessage"
               ]
@@ -9199,7 +9199,7 @@
             "Signature": {
               "Exposure": 0,
               "Name": "CanLightFuse",
-              "ReturnType": "System.Booleen",
+              "ReturnType": "System.Boolean",
               "Parameters": []
             },
             "MSILHash": "G3SYT72A7lDJuI7ML+012gUeUCYq46ejcPf5FwtFgNg=",
@@ -19099,7 +19099,7 @@
             "InjectionIndex": 25,
             "ReturnBehavior": 1,
             "ArgumentBehavior": 4,
-            "ArgumentString": "l1, a0,  this",
+            "ArgumentString": "l1, a0, this",
             "HookTypeName": "Simple",
             "Name": "OnRackedWeaponUnload",
             "HookName": "OnRackedWeaponUnload",
@@ -19125,7 +19125,7 @@
             "InjectionIndex": 71,
             "ReturnBehavior": 0,
             "ArgumentBehavior": 4,
-            "ArgumentString": "l1, a0,  this",
+            "ArgumentString": "l1, a0, this",
             "HookTypeName": "Simple",
             "Name": "OnRackedWeaponUnloaded",
             "HookName": "OnRackedWeaponUnloaded",
