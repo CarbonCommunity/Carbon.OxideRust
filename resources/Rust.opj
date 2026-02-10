@@ -21867,7 +21867,7 @@
         {
           "Type": "Modify",
           "Hook": {
-            "InjectionIndex": 70,
+            "InjectionIndex": 69,
             "RemoveCount": 0,
             "Instructions": [
               {
@@ -21919,7 +21919,7 @@
               {
                 "OpCode": "brfalse_s",
                 "OpType": "Instruction",
-                "Operand": 70
+                "Operand": 69
               },
               {
                 "OpCode": "ret",
