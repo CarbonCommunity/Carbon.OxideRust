@@ -14,7 +14,7 @@
     <TargetFramework>net48</TargetFramework>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <SteamAppId>258550</SteamAppId>
-    <SteamBranch>public</SteamBranch>
+    <SteamBranch>staging</SteamBranch>
     <SteamLogin>anonymous</SteamLogin>
     <GamePlatform>windows;linux</GamePlatform>
     <GameExe>RustDedicated.exe;RustDedicated</GameExe>
@@ -25,9 +25,9 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Oxide.References" Version="2.0.*" />
-    <PackageReference Include="Oxide.Core" Version="2.0.*" />
+    <PackageReference Include="Oxide.Core" Version="2.0.4141-develop" />
     <PackageReference Include="Oxide.CSharp" Version="2.0.*" />
-    <PackageReference Include="Oxide.MySql" Version="2.0.*" />
+    <PackageReference Include="Oxide.MySql" Version="2.0.3783-develop" />
     <PackageReference Include="Oxide.SQLite" Version="2.0.*" />
     <PackageReference Include="Oxide.Unity" Version="2.0.*" />
     <Reference Include="Assembly-CSharp" />
