@@ -873,7 +873,7 @@
               "ReturnType": "System.Void",
               "Parameters": []
             },
-            "MSILHash": "YzjLK8mc3eVgG1kO37ludMDfuEWqEVuCSsf7R/8Q0TU=",
+            "MSILHash": "AaMXGfgrpLWu+Gm2vFGfT9MkVqDeb9BuSy5gtVKqnbo=",
             "HookCategory": "Player"
           }
         },
@@ -4257,14 +4257,14 @@
                 "System.Boolean"
               ]
             },
-            "MSILHash": "IR4O2ElnN9o4TOVJHRbtYoxRsZzyItVk8a3sskfqIb8=",
+            "MSILHash": "XV1JNBGLbUHhN4+baheEOP6CAdCcwuWgW4SB95x3bC8=",
             "HookCategory": "Player"
           }
         },
         {
           "Type": "Simple",
           "Hook": {
-            "InjectionIndex": 270,
+            "InjectionIndex": 271,
             "ReturnBehavior": 0,
             "ArgumentBehavior": 4,
             "ArgumentString": "this, a0",
@@ -4283,7 +4283,7 @@
                 "System.Boolean"
               ]
             },
-            "MSILHash": "IR4O2ElnN9o4TOVJHRbtYoxRsZzyItVk8a3sskfqIb8=",
+            "MSILHash": "XV1JNBGLbUHhN4+baheEOP6CAdCcwuWgW4SB95x3bC8=",
             "BaseHookName": "CanDismountEntity",
             "HookCategory": "Entity"
           }
@@ -4310,7 +4310,7 @@
                 "System.Boolean"
               ]
             },
-            "MSILHash": "IR4O2ElnN9o4TOVJHRbtYoxRsZzyItVk8a3sskfqIb8=",
+            "MSILHash": "XV1JNBGLbUHhN4+baheEOP6CAdCcwuWgW4SB95x3bC8=",
             "BaseHookName": "OnEntityDismounted",
             "HookCategory": "Entity"
           }
@@ -15641,7 +15641,7 @@
                 "System.Boolean"
               ]
             },
-            "MSILHash": "MJjSwvg1UNPejvu46887eqs5NszU6U98/bGirOpevMg=",
+            "MSILHash": "Ar4Sz1D3Rx4DYu9u3FMvuQwjl+zXsPumfzbFxIytQMA=",
             "HookCategory": "Player"
           }
         },
@@ -16265,7 +16265,7 @@
               "ReturnType": "System.Void",
               "Parameters": []
             },
-            "MSILHash": "YzjLK8mc3eVgG1kO37ludMDfuEWqEVuCSsf7R/8Q0TU=",
+            "MSILHash": "AaMXGfgrpLWu+Gm2vFGfT9MkVqDeb9BuSy5gtVKqnbo=",
             "BaseHookName": "OnPlayerSleepEnd",
             "HookCategory": "Player"
           }
